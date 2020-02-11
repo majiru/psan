@@ -1,0 +1,3 @@
+psan is a toy query language that was built for the 2020 Iowa State
+National Cyber Defense Competition. This code served to store airport flight 
+and passenger information during the competition.
